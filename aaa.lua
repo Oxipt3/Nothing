@@ -37,8 +37,8 @@ local function createWebhookData()
     local jobIdLink = "https://www.roblox.com/games/" .. game.PlaceId .. "?jobId=" .. game.JobId
 
     local data = {
-        username = "Joe Biden
-        avatar_url = "https://upload.wikimedia.org/wikipedia/commons/6/68/Joe_Biden_presidential_portrait.jpg",
+        username = "AKs Execution Logger",
+        avatar_url = "https://i.imgur.com/AfFp7pu.png",
         embeds = {
             {
                 title = "🎮 Game Information",
